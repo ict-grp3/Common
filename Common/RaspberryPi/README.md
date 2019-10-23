@@ -22,4 +22,4 @@ cat {YOUR_ID}.txt  or vi {YOUR_ID}.txt<br>
 How to compile and run the camera program
 <br>
 <br>
-gcc -o picam picam.c
+ - gcc -o picam picam.c
